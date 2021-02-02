@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/DRichardFrankl1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="drichardfrankl1" height="30" width="40" /></a>
-<a href="https://fb.com/Richard Franklin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="richard franklin" height="30" width="40" /></a>
+<a href="https://fb.com/richard.franklin.125760" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="richard franklin" height="30" width="40" /></a>
 <a href="https://instagram.com/_richard_franklin_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_richard_franklin_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/richardfranklin1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="richardfranklin1" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@richard3658" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@richard3658" height="30" width="40" /></a>
@@ -30,3 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richard-franklin&show_icons=true&locale=en&layout=compact" alt="richard-franklin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richard-franklin&show_icons=true&locale=en" alt="richard-franklin" /></p>
+
+
+That's all for now....Hope you star my repositories....
