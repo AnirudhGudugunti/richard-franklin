@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/drichardfrankl1" target="blank"><img src="https://img.shields.io/twitter/follow/drichardfrankl1?logo=twitter&style=for-the-badge" alt="drichardfrankl1" /></a> </p>
 
-- 🌱 I’m currently learning **Django and react**
+- 🌱 I’m currently learning: **Django and react**
 
-- 👯 I’m looking to collaborate on **any projects related to front end development**
+- 👯 I’m looking to collaborate on: **any projects related to front end development**
 
-- 📫 How to reach me **richardfranklin41@gmail.com**
+- 📫 How to reach me: **richardfranklin41@gmail.com**
 
-- ⚡ Fun fact **I may seem boring but believe me, I am not**
+- ⚡ Fun fact: **I may seem boring but believe me, I am not**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richard-franklin&show_icons=true&locale=en&layout=compact" alt="richard-franklin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richard-franklin&show_icons=true&locale=en" alt="richard-franklin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richard-franklin&show_icons=true&locale=en" alt="richard-franklin" style"width:150px"/></p>
 
 
 That's all for now....Hope you star my repositories....
